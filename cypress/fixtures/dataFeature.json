@@ -1,0 +1,11 @@
+{
+    "inputObj":{
+      "Name":"Jack F.",
+      "Salary":800 
+    },
+    "inputObjWithInvalidDataType":{
+        "Name":"Jack F.",
+        "Salary":""
+    }
+  }
+  

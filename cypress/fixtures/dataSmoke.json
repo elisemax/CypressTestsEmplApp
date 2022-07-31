@@ -1,0 +1,10 @@
+{
+  "btnsSearch":[
+    "All Employes","Up Empl","Sallary more then 1000$"
+  ],
+  "idNewEmployees":[
+    "[data-cy='name-add-new-employee']",
+    "[data-cy='salary-add-new-employee']"
+  ]
+
+}
